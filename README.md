@@ -9,7 +9,7 @@ The models are compared against those implemented in specialized libraries such 
 1. **EDA.ipynb**: Exploratory Data Analysis of the MovieLens dataset.
 2. **User-based_CF.ipynb**: Implementation and analysis of user-based collaborative filtering models.
 3. **Item-based_CF.ipynb**: Implementation and analysis of item-based collaborative filtering models.
-4. **MatrixFactorization.ipynb**: Matrix factorization models implemented from scratch.
+4. **MatrixFactorization_Keras.ipynb**: Matrix factorization models implemented from scratch.
 5. **MatrixFactorization_Spark.ipynb**: Implementation of matrix factorization models using Spark MLlib.
 
 ## Dataset
